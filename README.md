@@ -1,1 +1,1 @@
-# bali_tourism
+# nusa_penida_tour_trips
